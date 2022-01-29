@@ -1,0 +1,10 @@
+[package]
+
+name = "rust_dbg_ext"
+version = "0.0.1"
+authors = [ "Tim Misiak <tmisiak@microsoft.com>" ]
+
+
+[lib]
+name = "rust_dbg_ext"
+crate-type = ["cdylib"]
